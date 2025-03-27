@@ -1,0 +1,4 @@
+Agent,Win Rate,Avg Shots,Min Shots,Max Shots,Std Dev
+RandomAgent,1.0,21.76,11,25,3.367847977566683
+SmartAgent,1.0,18.38,9,25,4.971478653278117
+QLearningAgent,1.0,22.18,11,25,2.977851574541619

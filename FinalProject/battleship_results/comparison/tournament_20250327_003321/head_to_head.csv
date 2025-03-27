@@ -1,0 +1,7 @@
+Agent,Opponent,Wins,Total,Win Percentage
+RandomAgent,SmartAgent,9,100,9.0
+RandomAgent,QLearningAgent,39,100,39.0
+SmartAgent,RandomAgent,88,100,88.0
+SmartAgent,QLearningAgent,85,100,85.0
+QLearningAgent,RandomAgent,44,100,44.0
+QLearningAgent,SmartAgent,13,100,13.0
